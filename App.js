@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Yes this is just some text</Text>
+      <Text>Yes this is just some text...</Text>
     </View>
   );
 }
